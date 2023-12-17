@@ -1,7 +1,15 @@
 const Header = () => {
     return (
         <header>
-            <h2>This is Header</h2>
+            <div>
+                로고 자리
+            </div>
+            <nav>
+                <ul>
+                    <li>메뉴1</li>
+                    <li>메뉴2</li>
+                </ul>
+            </nav>
         </header>
     )
 }
